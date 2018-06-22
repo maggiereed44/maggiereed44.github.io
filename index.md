@@ -1,6 +1,7 @@
 # Happy Fathers Day/Birthday Dad!
 
 ![Image](file:///Users/margaretreed/Desktop/Dad/IMG_3073.jpeg)
+![Image](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
 
 <br>
 <br>
@@ -34,7 +35,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-![Image](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
 
 1. Numbered
 2. List

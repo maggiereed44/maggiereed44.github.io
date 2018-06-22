@@ -1,5 +1,4 @@
-# Happy Fathers Day/Birthday Dad!
-
+<img src="https://static.boredpanda.com/blog/wp-content/uploads/2017/09/funny-dog-thoughts-tweets-1.jpg" alt="Girl in a jacket" width="500" height="600">
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

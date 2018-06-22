@@ -20,7 +20,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-![Image](Screen Shot 2018-06-13 at 3.37.12 PM)
+![Image](download.jpg)
 
 1. Numbered
 2. List

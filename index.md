@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-<h6> whats up dude </h6>
-<br>
+## Welcome to Maggie Reed's home page
 
 You can use the [editor on GitHub](https://github.com/maggiereed44/maggiereed44.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

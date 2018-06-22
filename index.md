@@ -1,6 +1,5 @@
 # Happy Fathers Day/Birthday Dad!
 
-![Image](https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113929740401/medium/1465483040/enhance)
 ![Image](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
 
 <br>

@@ -1,4 +1,7 @@
-<img src="https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381774/medium/1529719932413/enhance" alt="Girl in a jacket" width="500" height="600">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381353/medium/1529720137168/enhance" alt="Dad" width="500" height="600">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381241/medium/1529720192342/enhance" alt="Dad" width="500" height="600">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381307/medium/1529720147348/enhance" alt="Dad" width="500" height="600">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -1,36 +1,15 @@
+
+
+### Thank you for being the **best** dad in the _entire_ world!
+##Here's to all of the adventures we've had
+<br>
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930380715/large/1529719352/enhance" alt="Dad" width="270" height="360">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930380243/medium/1529719336/enhance" alt="Dad" width="270" height="360">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381564/large/1529719390/enhance" alt="Dad" width="270" height="360">
+<br>
+## and here's to many more!
+# CHEERS to YOU!
+<br>
 <img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381353/medium/1529720137168/enhance" alt="Dad" width="270" height="360">
 <img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381241/medium/1529720192342/enhance" alt="Dad" width="270" height="360">
 <img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381307/medium/1529720147348/enhance" alt="Dad" width="270" height="360">
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maggiereed44/maggiereed44.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

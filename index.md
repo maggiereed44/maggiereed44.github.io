@@ -1,6 +1,6 @@
-<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381353/medium/1529720137168/enhance" alt="Dad" width="270" height="480">
-<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381241/medium/1529720192342/enhance" alt="Dad" width="270" height="480">
-<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381307/medium/1529720147348/enhance" alt="Dad" width="270" height="480">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381353/medium/1529720137168/enhance" alt="Dad" width="270" height="360">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381241/medium/1529720192342/enhance" alt="Dad" width="270" height="360">
+<img src = "https://uniim1.shutterfly.com/ng/services/mediarender/THISLIFE/009009324778/media/113930381307/medium/1529720147348/enhance" alt="Dad" width="270" height="360">
 
 ### Markdown
 

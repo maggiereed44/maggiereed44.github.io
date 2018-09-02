@@ -19,19 +19,19 @@ Ok. So I realize this is probably super dry for anyone that isn't here. But stic
 
 # To be continued sections: 
 ### NEW SLANG ###
-• Slag - the irish sense of humor. Basically being mean to someone else. 
-• Prinks - Our version of a pregame (Pre drinks)
-• MyTaxi - Uber for Ireland 
-• Craic - fun, "Looking for good craic tongiht" (not drugs !!)
-• Feck off - you already know
+• Slag - the irish sense of humor. Basically being mean to someone else.   
+• Prinks - Our version of a pregame (Pre drinks)  
+• MyTaxi - Uber for Ireland   
+• Craic - fun, "Looking for good craic tongiht" (not drugs !!)  
+• Feck off - you already know  
 
 ### BEERS IVE TRIED ###
-• Guinness (lots... OBVS)
-• Archway (not good)
-• Dublin Blonde 
-• Paulener München (dont ever)
-• Whiplash "Do You Wanna Touch Me" Double IPA (loved)
-• O'haras Extra Irish Stout (was told I'm the marrying type for this one)
+• Guinness (lots... OBVS)  
+• Archway (not good)  
+• Dublin Blonde   
+• Paulener München (dont ever)  
+• Whiplash "Do You Wanna Touch Me" Double IPA (loved)  
+• O'haras Extra Irish Stout (was told I'm the marrying type for this one)  
 
 
 

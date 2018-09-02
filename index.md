@@ -1,7 +1,7 @@
 # Hey it's me in Dublin!
 #### Full Disclosure: I am writing this blog using HTML instead of a pre-made platform like Tumblr, so sorry if it's ugly. 
 
-## *September 2*
+## *September 2* FIRST POST !
 
 Alright, first update here goes nothing. These first few days have been an absolute whirlwind. I won't go into extreme detail because it's all pretty much anything anyone would expect from the first few days at a new school (lots of orientation, shopping for essentails, learning the public transit etc.) but it's been great so far. Downtown Dublin is crazy fun and everyone is ridiculously nice. Also, our classes don't start until September 10th so we can really do whatever we want until then. I've made a few friends from the IFSA Butler squad but there are also a ton more peopel from Colgate than I was anticipating. There are 7 of us at UCD and 4 at Trinity. Anyway-- I guess I'll jot down some specifics.
 

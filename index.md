@@ -37,10 +37,10 @@ Alright, first update here goes nothing. These first few days have been an absol
 • MyTaxi - Uber for Ireland   
 • Craic - fun, "Looking for good craic tongiht" (not drugs !!)  
 • Feck off - you already know  
-• Pissed - very drunk  
-• Chips - fries
-• Crisps - Chips
-• Irish Flu - Hangover 
+• Pissed - very drunk    
+• Chips - fries  
+• Crisps - Chips  
+• Irish Flu - Hangover   
 
 ### DRINKS IVE TRIED ###
 • Guinness  

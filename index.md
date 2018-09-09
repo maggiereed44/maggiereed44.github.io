@@ -54,7 +54,8 @@ Alright, first update here goes nothing. These first few days have been an absol
 • Slane whiskey  
 • Jameson   
 • Guinness West Indies Porter  
-• Guinness Milk Stout  
+• Guinness Milk Stout    
+• Guinness Golden Ale  
 • Baileys Iced Coffee Mocha  
 • O'neills Irish Stout  
 

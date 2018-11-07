@@ -1,5 +1,10 @@
-# Hey it's me in Dublin!
-#### Full Disclosure: I am writing this blog using HTML instead of a pre-made platform like Tumblr, so sorry if it's ugly. 
+# Maggie's Beer and Pub Journal
+### Entries include places/brews from: 
+1) All over Ireland 
+2) Stockholm, Sweden 
+3) Amsterdam, Netherlands
+4) Barcelona, Spain 
+5) Bern and Interlaken, Switzerland 
 
 ### Thursday (Sep 6): 
 UCD Orientation was today so most of what we did is not worth mentioning. After all of that, we went to a welcome reception for international students and learned how to do some traditional irish dances. I still can't dance. At night, there was a €5 pub crawl for international student. Will and I went with our Duke friends and our Aus and Nz crew. We got free Sangria and no cover charges at O'Sheas, MJO'Neills and the Academy (which had free cotton candy at the bar??).
@@ -57,7 +62,38 @@ Alright, first update here goes nothing. These first few days have been an absol
 • Guinness Milk Stout    
 • Guinness Golden Ale  
 • Baileys Iced Coffee Mocha  
-• O'neills Irish Stout  
+• O'neills Irish Stout 
+• Beamish Irish Stout 
+• Dungarvan Black Rock Irish Stout 
+• 5 Lamps 
+• Celebration Stour -- Porterhouse 
+• Sambuca 
+• Stoodley Stout 
+• Carlsberg 
+• Wisby Stout 
+• Young's Double Chocolate Stout 
+• Hairy Lemon Stout 
+• Smitwhick's Blonde 
+• Murphy's Red 
+• Black Pitts Stout 
+• Sullivan's 
+• Smithick's Flight 
+• O'Haras Pale Ale 
+• Kilkenny 
+• Teresa Rizzi Prosecco 
+• Gogarty's Irish Stout 
+• Estrella Damm 
+• Voll Damm 
+• San Miguel 
+• Mohitos 
+• The White Sow Oatmeal Chocolate Stout 
+• Fridge Life Double IPA 
+• Fourpure Oatmeal Stout 
+• Common Grounds Triple Coffee Porter 
+• Whiplash Eventually DIPA 
+• Motley Brü session IPA 
+• RIS Russian Imperial Stout (Barbière brewery) 
+
 
 ### BARS/PUBS ###
 • The Old Stand  
@@ -73,7 +109,40 @@ Alright, first update here goes nothing. These first few days have been an absol
 • Sonny Molloys Irish Whiskey Bar / The Front Door  
 • O'Shea's  
 • M J O'Neills  
-• The Academy   
+• The Academy 
+• SoHo 
+• Old Oak 
+• The Poor Relation Grocery and Pub 
+• Muskerry Arms 
+• Oliver Plunkett 
+• Cozy Cafe 
+• Cassidy's 
+• Devitts 
+• PMacs 
+• Whelans 
+• Coppers 
+• San Lorenzo's 
+• Sinnotts Bar 
+• The Hairy Lemon 
+• The Woolshed 
+• Brazen Head 
+• The Bank 
+• Stags Head 
+• The Shack 
+• Bruxelles 
+• The Boars Head 
+• the Norseman 
+• O'Neils 
+• The Oliver St. Gogerty Bar 
+• Cleere's 
+• Kytelers Inn 
+• Library Bar 
+• Kehoes 
+• Bar with No Name 
+• The River Bar 
+• Metro Cafe  
+• The Lucky Duck 
+
 
 
 

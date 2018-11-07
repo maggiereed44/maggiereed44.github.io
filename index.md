@@ -27,7 +27,8 @@
 • Whiplash "Do You Wanna Touch Me" DIPA     
 • O'haras Extra Irish Stout (was told I'm the marrying type for this one)    
 • Murphy's Irish Stout  
-• Whiplash Rollover  
+• Whiplash Rollover    
+• Franciscan Well Flight     
 • Slane whiskey  
 • Jameson   
 • Guinness West Indies Porter  
@@ -91,7 +92,8 @@
 • SoHo   
 • Old Oak   
 • The Poor Relation Grocery and Pub   
-• Muskerry Arms   
+• Muskerry Arms  
+• Franciscan Well Brewery    
 • Oliver Plunkett   
 • Cozy Cafe   
 • Cassidy's   

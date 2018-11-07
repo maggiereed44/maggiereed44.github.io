@@ -1,6 +1,6 @@
 # Maggie's Beer and Pub Journal
 ### Entries include places/brews from: 
-1) All over Ireland 
+1) All over Ireland    
 2) Stockholm, Sweden   
 3) Amsterdam, Netherlands  
 4) Barcelona, Spain   

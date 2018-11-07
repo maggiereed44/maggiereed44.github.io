@@ -65,6 +65,12 @@
 • Whiplash Eventually DIPA   
 • Motley Brü session IPA   
 • RIS Russian Imperial Stout (Barbière brewery)   
+• Rekord Spezialbier   
+• Rugen Bräu Dunkel   
+• Eichbaum  ... I have no idea its in German!   
+• Feldschlösschen Original  
+• 01 Bier Paul  
+• Feldschlösschen Dunkel Brune  
 
 
 ### BARS/PUBS ###

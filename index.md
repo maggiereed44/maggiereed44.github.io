@@ -23,8 +23,8 @@
 • Guinness  
 • Archway  
 • Dublin Blonde   
-• Paulener München (Worst beer I have ever tried)
-• Whiplash "Do You Wanna Touch Me" DIPA  
+• Paulener München (Worst beer I have ever tried)   
+• Whiplash "Do You Wanna Touch Me" DIPA     
 • O'haras Extra Irish Stout (was told I'm the marrying type for this one)    
 • Murphy's Irish Stout  
 • Whiplash Rollover  

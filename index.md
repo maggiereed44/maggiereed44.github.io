@@ -34,8 +34,8 @@
 • Guinness Milk Stout    
 • Guinness Golden Ale  
 • Baileys Iced Coffee Mocha  
-• O'neills Irish Stout 
-• Beamish Irish Stout    
+• O'neills Irish Stout    
+• Beamish Irish Stout       
 • Dungarvan Black Rock Irish Stout    
 • 5 Lamps     
 • Celebration Stour -- Porterhouse    

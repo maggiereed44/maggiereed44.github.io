@@ -2,9 +2,12 @@
 ### Entries include places/brews from: 
 1) All over Ireland    
 2) Stockholm, Sweden   
-3) Amsterdam, Netherlands  
-4) Barcelona, Spain   
-5) Bern and Interlaken, Switzerland  
+3) Munich, Germany    
+4) Amsterdam, Netherlands  
+5) Barcelona, Spain   
+6) Bern and Interlaken, Switzerland   
+7) Belfast, Northern Ireland    
+8) Copenhagen, Denmark   
 
 
 # To be continued sections: 
@@ -68,10 +71,27 @@
 • RIS Russian Imperial Stout (Barbière brewery)   
 • Rekord Spezialbier   
 • Rugen Bräu Dunkel   
-• Eichbaum  ... I have no idea its in German!   
-• Feldschlösschen Original  
-• 01 Bier Paul  
-• Feldschlösschen Dunkel Brune  
+• Eichbaum  ... I have no idea its in German!       
+• Feldschlösschen Original     
+• 01 Bier Paul      
+• Feldschlösschen Dunkel Brune         
+• Hilden Headless Dog Bright Amber Ale      
+• Hilden Belfast Blonde    
+• Delirium Belgium Strong Beer    
+• Maggie’s Leap IPA    
+• Belfast Black Stout    
+• Porterhouse XXXX Full Stout    
+• The White Hag Black Sow Coffee Milk Stout    
+• Tiny Rebel Stay Puft Marshmallow Porter    
+• Tuborg RA   
+• Tuborg Julebryg   
+• Giraf Beer      
+• Somersby Blackberry Cider    
+• Young’s Double Chocolate Stout   
+• Flying Couch Black Ice Imperial Stout   
+• You Fucked Me Up and Im Furious Coffee Stout    
+• Moonbase of Filth Oatmeal Stout    
+• Beer Geek Breakfast Coffee Stout    
 
 
 ### BARS/PUBS ###
@@ -121,7 +141,9 @@
 • Bar with No Name   
 • The River Bar   
 • Metro Cafe    
-• The Lucky Duck  
+• The Lucky Duck   
+• Doyle's      
+
 
 
 

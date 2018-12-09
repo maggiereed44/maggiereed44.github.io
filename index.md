@@ -7,7 +7,11 @@
 5) Barcelona, Spain   
 6) Bern and Interlaken, Switzerland   
 7) Belfast, Northern Ireland    
-8) Copenhagen, Denmark   
+8) Copenhagen, Denmark  
+9) Bratislava, Slovakia   
+10) Budapest, Hungary   
+11) Vienna, Austria   
+12) Prague, Czech Republic   
 
 
 # To be continued sections: 

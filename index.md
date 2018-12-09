@@ -42,7 +42,7 @@
 • Beamish Irish Stout       
 • Dungarvan Black Rock Irish Stout    
 • 5 Lamps     
-• Celebration Stour -- Porterhouse    
+• Celebration Stout -- Porterhouse    
 • Sambuca   
 • Stoodley Stout    
 • Carlsberg   
@@ -91,7 +91,26 @@
 • Flying Couch Black Ice Imperial Stout   
 • You Fucked Me Up and Im Furious Coffee Stout    
 • Moonbase of Filth Oatmeal Stout    
-• Beer Geek Breakfast Coffee Stout    
+• Beer Geek Breakfast Coffee Stout 
+• Dark Arts Porter    
+• Ivan 14º   
+• Zlasty  
+• Staropramen Dark    
+• Liquid Cocaine DIPA   
+• Bière de Noël   
+• Bierol Koida Kaffee    
+• Brew Dog Elvis Juice   
+• Beavertown Neck Oil Session IPA   
+• Fourpure Oatmeal Stout   
+• Kozel Dark    
+• Pécsi Sör Prémium   
+• Pécsi APA   
+• Krusovice Cerné    
+• Desperados   
+• Pittinger Radler   
+• Gösser NaturRadler   
+• Mutter Milch Bitta Von Tresen   
+• Gold Fassl Dunkles    
 
 
 ### BARS/PUBS ###

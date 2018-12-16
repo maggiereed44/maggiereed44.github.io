@@ -95,7 +95,7 @@
 • Flying Couch Black Ice Imperial Stout   
 • You Fucked Me Up and Im Furious Coffee Stout    
 • Moonbase of Filth Oatmeal Stout    
-• Beer Geek Breakfast Coffee Stout 
+• Beer Geek Breakfast Coffee Stout       
 • Dark Arts Porter    
 • Ivan 14º   
 • Zlasty  
@@ -115,6 +115,12 @@
 • Gösser NaturRadler   
 • Mutter Milch Bitta Von Tresen   
 • Gold Fassl Dunkles    
+• Pivovar U Supa Sup twelve     
+• Pivovar U Supa Sup fourteen     
+• Matuska Brewery Pilsner    
+• Brewery Kamenice nad Lipou Lager Thirteen    
+• Lobec Irish Dry Stout    
+• Kasteel Rouge 17    
 
 
 ### BARS/PUBS ###
